@@ -1,4 +1,4 @@
-#LINUX
+# LINUX
 	comanda Makefile:
 		make main1
 		make clean
@@ -33,7 +33,7 @@
 	- pid => pid-ul procesului copil (daca s-a folosit so_popen())
 	
 
-#WINDOWS
+# WINDOWS
 	comanda NMakefile:
 		nmake main.exe 
 		nmake clean
